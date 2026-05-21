@@ -1,8 +1,13 @@
 # ✅ iTask - Todo Manager App
 
 <div align="center">
-  <img src="./src/demo/demo.png" width="700px">
+  <img src="./src/demo/demo.png">
 </div>
+
+---
+
+## 🔥 Live Preview
+👉 https://itodolistapp.netlify.app/
 
 ---
 
