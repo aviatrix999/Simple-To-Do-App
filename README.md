@@ -1,7 +1,7 @@
 # ✅ iTask - Todo Manager App
 
 <div align="center">
-  <img src="./src/demo/demo.png" width="500px">
+  <img src="./src/demo/demo.png" width="700px">
 </div>
 
 ---
